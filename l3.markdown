@@ -1,9 +1,6 @@
 ---
 layout: custom
 ---
----
-layout: custom
----
 
 
 # Beyond Beta 🧐
