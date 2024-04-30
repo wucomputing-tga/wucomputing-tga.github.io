@@ -10,7 +10,7 @@ layout: custom
 
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l4/Session_1.pdf) 
 
-## Session 2: Programming Micro:bits with Python
+## Session 2: Training Bertie
 
 Coming soon 👀
 
