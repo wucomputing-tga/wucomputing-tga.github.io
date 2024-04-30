@@ -4,7 +4,7 @@ layout: custom
 
 # Byte Sized Basics 👩‍💻
 
- 
+![Cruz Design](https://wucomputing-tga.github.io/img/l1.jpeg)
 
 ## Session 1: Introduction to Programming
 
