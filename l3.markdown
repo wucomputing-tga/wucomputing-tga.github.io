@@ -5,4 +5,6 @@ layout: custom
 
 # Beyond Beta 🧐
 
+![Lego Mario Kart](https://wucomputing-tga.github.io/img/l3.jpeg)
+
 Coming soon 👀
