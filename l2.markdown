@@ -5,8 +5,6 @@ layout: custom
 
 # Bits and Bots 🚙
 
-![Micro:bits](https://wucomputing-tga.github.io/img/l2.jpeg)
-
 ## Session 1: Introduction to Python
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pc3hpDTv2Sg?si=8GFR31zRZ89ogFHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
