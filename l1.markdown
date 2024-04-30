@@ -7,3 +7,5 @@ layout: custom
 ## Session 1: Introduction to Programming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTcTvyfFsi0?si=vchajjX7GYKVsa45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l1/Session_1_Workbook.pdf) 
