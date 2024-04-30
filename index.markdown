@@ -34,5 +34,5 @@ In level 4 students will engage with our robotics equipment, specifically Norber
 
 ## Schedule for 2024
 
-Please see the following document for the 2024 schedule: [Schedule_2024.pdf](https://wucomputing-tga.github.io/levels/Schedule.pdf)
+Please see the following document for the 2024 schedule: [Schedule_2024.pdf](https://wucomputing-tga.github.io/levels/schedule.pdf)
 
