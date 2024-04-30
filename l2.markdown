@@ -5,7 +5,7 @@ layout: custom
 
 # Bits and Bots 🚙
 
- 
+![Micro:bits](https://wucomputing-tga.github.io/img/l2.jpeg)
 
 ## Session 1: Introduction to Python
 
