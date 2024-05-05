@@ -14,7 +14,7 @@ layout: custom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGQFX3XYPoA?si=csKPFxd7vOn8Iwir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l2/Session_2.pdf)
+📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l4/Session_2.pdf)
 
 ## Session 3: Bertie's Big Day Out
 
