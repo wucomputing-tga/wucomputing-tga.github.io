@@ -15,7 +15,7 @@ layout: custom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u41G9yIy5O4?si=9YyRpUtbFts8JyfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l2/Session_2.pdf)
+📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l2/Session_2.pdf)<br>
 ⬇️ Template: [microbit-Guess-the-Dice-Roll.hex](https://wucomputing-tga.github.io/levels/l2/microbit-Guess-the-Dice-Roll.hex)
 
 ## Session 3: Micro:bits & Maqueen
