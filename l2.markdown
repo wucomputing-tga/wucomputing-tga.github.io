@@ -9,7 +9,8 @@ layout: custom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pc3hpDTv2Sg?si=8GFR31zRZ89ogFHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l2/Session_1.pdf) 
+📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l2/Session_1.pdf) <br>
+⬇️ Template: [tic_tac_toe_game.py](https://wucomputing-tga.github.io/levels/l2/tic_tac_toe_game.py)
 
 ## Session 2: Programming Micro:bits with Python
 
