@@ -18,4 +18,10 @@ layout: custom
 
 ## Session 3: Bertie's Big Day Out
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKhpenYVuUI?si=NalnnHxEBFmlxCNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l4/Session_3.pdf)
+
+## Session 4: Cruising with Cruz
+
 Coming soon 👀
