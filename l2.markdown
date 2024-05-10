@@ -21,4 +21,11 @@ layout: custom
 
 ## Session 3: Micro:bits & Maqueen
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2NHiFxVfNI?si=C_zI64Fyqa5YHhSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l2/Session_3.pdf)<br>
+⬇️ Template: [microbit-Lightning-Maqueen.hex](https://wucomputing-tga.github.io/levels/l2/microbit-Lightning-Maqueen.hex)
+
+## Session 4: Cruising with Cruz
+
 Coming soon 👀
