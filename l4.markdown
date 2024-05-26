@@ -22,6 +22,8 @@ layout: custom
 
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l4/Session_3.pdf)
 
-## Session 4: Cruising with Cruz
+## Session 4: Cruzin with Cruz 2.0
 
-Coming soon 👀
+<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="500"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="500"><br>
+
+## Session 5: Introduction to Lego Mario
