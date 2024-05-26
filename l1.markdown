@@ -24,6 +24,14 @@ layout: custom
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l1/Session_3.pdf)<br>
 ⬇️ Template: [Uno.zip](https://wucomputing-tga.github.io/levels/l1/Uno.zip)
 
-## Session 4: Cruising with Cruz
+## Session 4: Cruzin with Cruz 2.0
 
-Coming soon 👀
+<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="500">
+<img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="500"><br>
+
+## Session 5: Introduction to Databases
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkaKoGGYMzU?si=FaGpyQsRVdEugaBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l1/Session_5.pdf)<br>
+⬇️ Template: [studentsystem.sql](https://wucomputing-tga.github.io/levels/l1/studentsystem.sql)
