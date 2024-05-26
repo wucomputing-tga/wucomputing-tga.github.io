@@ -28,8 +28,7 @@ layout: custom
 
 ## Session 4: Cruzin with Cruz 2.0
 
-<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="500">
-<img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="500"><br>
+<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="500"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="500"><br>
 
 ## Session 5: Self-driving Maqueen
 
