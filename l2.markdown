@@ -36,3 +36,11 @@ layout: custom
 
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l2/Session_5.pdf)<br>
 ⬇️ Template: [microbit-Self-Driving-Lightning-Maqueen.hex](https://wucomputing-tga.github.io/levels/l2/microbit-Self-Driving-Lightning-Maqueen.hex)
+
+## Session 6: King's Birthday! 🥳 
+
+## Session 7: Introduction to Data Structures
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7najkzTgqk?si=Mprje2vZsYkJuzQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l2/Session_7.pdf)<br>
