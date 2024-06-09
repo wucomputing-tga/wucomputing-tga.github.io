@@ -31,3 +31,12 @@ layout: custom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h--5NsCHj0o?si=j-yFcDRCqoAyNIbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l4/Session_5.pdf)
+
+## Session 6: King's Birthday! 🥳 
+
+## Session 7: Lego Mario Data Analysis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eywu8_NoZoI?si=FfF2nlSFVbLugf3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l4/Session_7.pdf)
+⬇️ Worksheet: [Mario_Sensors.pdf](https://wucomputing-tga.github.io/levels/l4/Mario_Sensors.pdf)
