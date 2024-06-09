@@ -41,4 +41,4 @@ layout: custom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NspTrB-Rg2k?si=uy6HXxk5hYk1KD7T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-📓 Workbook: [Session 6.pdf](https://wucomputing-tga.github.io/levels/l1/Session_6.pdf)<br>
+📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l1/Session_7.pdf)<br>
