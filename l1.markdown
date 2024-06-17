@@ -42,3 +42,14 @@ layout: custom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NspTrB-Rg2k?si=uy6HXxk5hYk1KD7T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l1/Session_7.pdf)<br>
+
+## Session 8: Introduction to Web Development
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppfIGJQpg_c?si=DrGsswxqGGwQBhXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l1/Session_8.pdf)<br>
+⬇️ Template: [Weather.zip](https://wucomputing-tga.github.io/levels/l1/Weather.zip)
+
+## Session 9: Battle of the Bytes 🏆
+
+
