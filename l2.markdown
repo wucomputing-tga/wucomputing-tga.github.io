@@ -44,3 +44,12 @@ layout: custom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E7najkzTgqk?si=Mprje2vZsYkJuzQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l2/Session_7.pdf)<br>
+
+## Session 8: Detecting Code Smells
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Kuxyg0Cihw?si=nsPQdHTmkbuGLZAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l2/Session_8.pdf)<br>
+⬇️ Template: [Main.java](https://wucomputing-tga.github.io/levels/l2/Main.java)
+
+## Session 9: Battle of the Bytes 🏆
