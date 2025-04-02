@@ -32,7 +32,7 @@ layout: custom
 
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l4/Session_5.pdf)
 
-## Session 6: Queen's Birthday! 🥳 
+## Session 6: King's Birthday! 🥳 
 
 ## Session 7: Lego Mario Data Analysis
 
