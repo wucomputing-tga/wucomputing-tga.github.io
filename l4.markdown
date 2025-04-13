@@ -10,7 +10,7 @@ layout: custom
 
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l4/Session_1.pdf) 
 
-## Session 2: Training Bertie
+<!--## Session 2: Training Bertie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGQFX3XYPoA?si=csKPFxd7vOn8Iwir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -48,3 +48,5 @@ layout: custom
 📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l4/Session_8.pdf)
 
 ## Session 9: Battle of the Bytes 🏆
+
+## Session 10: Careers in Computing 🤓-->
