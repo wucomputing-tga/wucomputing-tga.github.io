@@ -10,6 +10,6 @@ layout: custom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRaiQvy-N5g?si=brKtCxd31TY2MprU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l3/Session_1.pdf)
-⬇️ Worksheet: [Session 1 Worksheet.docx](https://wucomputing-tga.github.io/levels/l3/Session\ 1\ Worksheet.docx)
+⬇️ Worksheet: [Session 1 Worksheet.docx](https://wucomputing-tga.github.io/levels/l3/Session_1_Worksheet.docx)
 <!-- -->
 
