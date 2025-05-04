@@ -6,7 +6,8 @@ layout: custom
 
 CSNeT (Computer Science NeTwork) is an after school programme run at the University of Waikato's Tauranga campus by [Au Reikura - School of Computing & Mathematical Sciences](https://www.waikato.ac.nz/about/faculties-schools/cms/) for secondary level students who are interested in technology. The programme typically takes place over the course of Term 2 each year. Classes are run every Monday from 3:30-5:00pm. 
   
-**![Registrations for Term 2 2025 are now open!!](https://forms.office.com/r/cR4Bn3iVqt)**
+<!-- **![Registrations for Term 2 2025 are now open!!](https://forms.office.com/r/cR4Bn3iVqt)** -->
+** Registrations for Term 2 2025 are now closed **
 
 Please see the following document for the 2025 schedule: [Schedule_2025.pdf](https://wucomputing-tga.github.io/levels/schedule.pdf)
   
@@ -52,8 +53,14 @@ Senior Lecturer in Software Engineering <br>
 Teaching Fellow in Computing <br>
 <br>
 
+**Ben Jones** <br>
+Graduate Assistant <br>
+
 **Jane Kasmara** <br> 
 Student Ambassador <br>
+
+**Ryan Bulcraig** <br>
+Sessional Assistant 
 
 
 
