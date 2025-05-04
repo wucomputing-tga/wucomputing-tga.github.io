@@ -10,6 +10,12 @@ layout: custom
 
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l5/Session_1.pdf)
 
+## Session 2: Bot Marley Tunes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D5TWAEn4X_Q?si=YmUylEUolmNXEOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l5/Session_2.pdf)
+
 <!-- -->
 
 
