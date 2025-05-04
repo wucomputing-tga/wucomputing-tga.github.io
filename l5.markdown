@@ -15,8 +15,8 @@ layout: custom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D5TWAEn4X_Q?si=YmUylEUolmNXEOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l5/Session_2.pdf) <br>
-⬇️ Worksheets: [Hokey_Pokey_worksheet.docx](https://wucomputing-tga.github.io/levels/l5/Hokey_Pokey_worksheet.docx) <br>
-[PythonNoteFrequencies.pdf](https://wucomputing-tga.github.io/levels/l5/PythonNoteFrequencies.pdf) <br>
+⬇️ Worksheets: [Hokey_Pokey_worksheet.docx](https://wucomputing-tga.github.io/levels/l5/Hokey_Pokey_worksheet.docx) 
+[PythonNoteFrequencies.pdf](https://wucomputing-tga.github.io/levels/l5/PythonNoteFrequencies.pdf) 
 [Web-Playground-Command-Reference.pdf](https://wucomputing-tga.github.io/levels/l5/Web-Playground-Command-Reference.pdf)
 
 <!-- -->
