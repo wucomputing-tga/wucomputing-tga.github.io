@@ -19,14 +19,14 @@ layout: custom
 📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l2/Session_2.pdf)<br>
 ⬇️ Template: [microbit-Guess-the-Dice-Roll.hex](https://wucomputing-tga.github.io/levels/l2/microbit-Guess-the-Dice-Roll.hex)
 
-<!--## Session 3: Micro:bits & Maqueen
+## Session 3: Micro:bits & Maqueen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2NHiFxVfNI?si=C_zI64Fyqa5YHhSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l2/Session_3.pdf)<br>
 ⬇️ Template: [microbit-Lightning-Maqueen.hex](https://wucomputing-tga.github.io/levels/l2/microbit-Lightning-Maqueen.hex)
 
-## Session 4: Cruzin with Cruz 2.0
+<!--## Session 4: Cruzin with Cruz 2.0
 
 <img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="300"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="300"><br>
 
