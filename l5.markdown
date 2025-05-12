@@ -19,6 +19,12 @@ layout: custom
 [PythonNoteFrequencies.pdf](https://wucomputing-tga.github.io/levels/l5/PythonNoteFrequencies.pdf) 
 [Web-Playground-Command-Reference.pdf](https://wucomputing-tga.github.io/levels/l5/Web-Playground-Command-Reference.pdf)
 
+## Session 3: Big Performance Night
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBrLXlAdQyY?si=1J11qqLOsb1zvGUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l5/Session_3.pdf) <br>
+
 <!-- -->
 
 
