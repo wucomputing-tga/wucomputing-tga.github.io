@@ -18,3 +18,10 @@ layout: custom
 
 📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l3/Session_2.pdf)<br>
 ⬇️ Worksheet: [Session 2 Worksheet.pdf](https://wucomputing-tga.github.io/levels/l3/Session_2_Worksheet.pdf)
+
+## Session 3: The Software Development Lifecycle: Personas & Scenarios
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1DYoFBlSRg?si=JjlDQ--p5up5FQEF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l3/Session_3.pdf)<br>
+⬇️ Worksheet: [Session 2 Worksheet.pdf](https://wucomputing-tga.github.io/levels/l3/Session_2_Worksheet.pdf)
