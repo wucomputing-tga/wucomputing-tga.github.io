@@ -17,14 +17,14 @@ layout: custom
 📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l1/Session_2.pdf)<br>
 ⬇️ Template: [Uno Cards.zip](https://wucomputing-tga.github.io/levels/l1/UNO_Cards.zip)
 
-<!--## Session 3: Introduction to Event-driven Programming
+## Session 3: Introduction to Event-driven Programming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O1k83ikIT74?si=dUQ_gZQo_1Fdijhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l1/Session_3.pdf)<br>
 ⬇️ Template: [Uno.zip](https://wucomputing-tga.github.io/levels/l1/Uno.zip)
 
-## Session 4: Cruzin with Cruz 2.0
+<!--## Session 4: Cruzin with Cruz 2.0
 
 <img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="300"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="300"><br>
 
