@@ -24,7 +24,12 @@ layout: custom
 
 <!--## Session 4: Cruzin with Cruz 2.0
 
-<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="300"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="300"><br>
+<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="300"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="300"><br>-->
+
+## Session 4: Cruzin with Cruz 2.0
+
+<img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300"><br>
+📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
 
 ## Session 5: Introduction to Lego Mario
 
@@ -34,7 +39,7 @@ layout: custom
 
 ## Session 6: King's Birthday! 🥳 
 
-## Session 7: Lego Mario Data Analysis
+<!--## Session 7: Lego Mario Data Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eywu8_NoZoI?si=FfF2nlSFVbLugf3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
