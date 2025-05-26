@@ -38,5 +38,5 @@ layout: custom
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l3/Session_5.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.zip](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.zip) [ParkwayCommutePrototype.pdf](https://wucomputing-tga.github.io/levels/l3/ParkwayCommutePrototype.pdf)
 
-
+## Session 6: King's Birthday! 🥳 
 
