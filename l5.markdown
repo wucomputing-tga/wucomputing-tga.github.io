@@ -25,6 +25,9 @@ layout: custom
 
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l5/Session_3.pdf) <br>
 
-<!-- -->
+## Session 4: Cruzin with Cruz 2.0
+
+<img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300"><br>
+📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
 
 
