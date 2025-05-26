@@ -26,7 +26,7 @@ layout: custom
 
 ## Session 4: Cruzin with Cruz 2.0
 
-<img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.jpeg" alt="Cruz in the lab" width="300">
+<img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300">
 📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
 <br>
 
