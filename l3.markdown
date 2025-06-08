@@ -40,3 +40,9 @@ layout: custom
 
 ## Session 6: King's Birthday! 🥳 
 
+## Session 7: Introduction to the Software Development Lifecycle:​ Implementation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPHEpuzhub0?si=CLt79RSRmrlDJQYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l3/Session_7.pdf)<br>
+⬇️ Worksheet: [ParkwayCommute.sql](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.sql)
