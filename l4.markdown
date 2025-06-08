@@ -39,14 +39,14 @@ layout: custom
 
 ## Session 6: King's Birthday! 🥳 
 
-<!--## Session 7: Lego Mario Data Analysis
+## Session 7: Lego Mario Data Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eywu8_NoZoI?si=FfF2nlSFVbLugf3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l4/Session_7.pdf)<br>
 ⬇️ Worksheet: [Mario_Sensors.pdf](https://wucomputing-tga.github.io/levels/l4/Mario_Sensors.pdf)
 
-## Session 8: Lego Mario Tangible Interactions
+<!--## Session 8: Lego Mario Tangible Interactions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_ppa84ruqc?si=tV1UmVnXPLJCFoln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
