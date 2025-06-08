@@ -38,13 +38,13 @@ layout: custom
 
 ## Session 6: King's Birthday! 🥳 
 
-<!--## Session 7: Boolean Algebra
+## Session 7: Boolean Algebra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NspTrB-Rg2k?si=uy6HXxk5hYk1KD7T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l1/Session_7.pdf)<br>
 
-## Session 8: Introduction to Web Development
+<!--## Session 8: Introduction to Web Development
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ppfIGJQpg_c?si=DrGsswxqGGwQBhXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
