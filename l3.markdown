@@ -46,3 +46,7 @@ layout: custom
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l3/Session_7.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.sql](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.sql)
+
+## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
+
+📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l3/Session_8.pdf)<br>
