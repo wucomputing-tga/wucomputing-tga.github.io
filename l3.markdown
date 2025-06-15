@@ -50,3 +50,7 @@ layout: custom
 ## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
 
 📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l3/Session_8.pdf)<br>
+
+## Session 9: Battle of the Bytes 🏆
+
+<!--## Session 10: Careers in Computing 🤓-->
