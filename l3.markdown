@@ -49,6 +49,8 @@ layout: custom
 
 ## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTHZUWPfE8U?si=6zV_zBSIcM5I5ISR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l3/Session_8.pdf)<br>
 
 ## Session 9: Battle of the Bytes 🏆
