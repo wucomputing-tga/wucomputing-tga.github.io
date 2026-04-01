@@ -12,7 +12,7 @@ layout: custom
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l2/Session_1.pdf) <br>
 ⬇️ Template: [tic_tac_toe_game.py](https://wucomputing-tga.github.io/levels/l2/tic_tac_toe_game.py)
 
-## Session 2: Programming Micro:bits with Python
+<!--## Session 2: Programming Micro:bits with Python
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u41G9yIy5O4?si=9YyRpUtbFts8JyfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -30,10 +30,6 @@ layout: custom
 
 <img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300"><br>
 📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
-
-<!--## Session 4: Cruzin with Cruz 2.0
-
-<img src="https://wucomputing-tga.github.io/img/cruz.jpeg" alt="Cruz in the lab" width="300"><img src="https://wucomputing-tga.github.io/img/design_papers.jpeg" alt="Design worksheets" width="300"><br>-->
 
 ## Session 5: Self-driving Maqueen
 
@@ -59,4 +55,4 @@ layout: custom
 
 ## Session 9: Battle of the Bytes 🏆
 
-<!--## Session 10: Careers in Computing 🤓-->
+## Session 10: Careers in Computing 🤓-->
