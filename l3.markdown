@@ -12,7 +12,7 @@ layout: custom
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l3/Session_1.pdf)<br>
 ⬇️ Worksheet: [Session 1 Worksheet.docx](https://wucomputing-tga.github.io/levels/l3/Session_1_Worksheet.docx)
 
-## Session 2: The Software Development Lifecycle: Analysis
+<!--## Session 2: The Software Development Lifecycle: Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7kWvakZO38?si=z0RhrXhE1ATdX1AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -55,4 +55,4 @@ layout: custom
 
 ## Session 9: Battle of the Bytes 🏆
 
-<!--## Session 10: Careers in Computing 🤓-->
+## Session 10: Careers in Computing 🤓-->
