@@ -10,14 +10,14 @@ layout: custom
 
 📓 Workbook: [Session 1.pdf](https://wucomputing-tga.github.io/levels/l1/Session_1_Workbook.pdf) 
 
-<!--## Session 2: Introduction to GUI
+## Session 2: Introduction to GUI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--3-cdV53JY?si=56S_ZOq1Bol4ult0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 2.pdf](https://wucomputing-tga.github.io/levels/l1/Session_2.pdf)<br>
 ⬇️ Template: [Uno Cards.zip](https://wucomputing-tga.github.io/levels/l1/UNO_Cards.zip)
 
-## Session 3: Introduction to Event-driven Programming
+<!--## Session 3: Introduction to Event-driven Programming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O1k83ikIT74?si=dUQ_gZQo_1Fdijhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
