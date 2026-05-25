@@ -26,10 +26,10 @@ layout: custom
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l3/Session_3.pdf)<br>
 ⬇️ Worksheet: [Session 3 Worksheet.docx](https://wucomputing-tga.github.io/levels/l3/Session_3_Worksheet.docx)
 
-<!--## Session 4: Cruzin with Cruz 2.0
+## Session 4: Cruzin with Cruz 2.0
 
 <img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300"><br>
-📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
+<!--📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)-->
 
 ## Session 5: Introduction to the Software Development Lifecycle:​ Implementing the UI
 
@@ -38,7 +38,7 @@ layout: custom
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l3/Session_5.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.zip](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.zip) [ParkwayCommutePrototype.pdf](https://wucomputing-tga.github.io/levels/l3/ParkwayCommutePrototype.pdf)
 
-## Session 6: King's Birthday! 🥳 
+<!--## Session 6: King's Birthday! 🥳 
 
 ## Session 7: Introduction to the Software Development Lifecycle:​ Implementation
 
