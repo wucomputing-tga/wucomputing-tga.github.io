@@ -24,10 +24,10 @@ layout: custom
 📓 Workbook: [Session 3.pdf](https://wucomputing-tga.github.io/levels/l1/Session_3.pdf)<br>
 ⬇️ Template: [Uno.zip](https://wucomputing-tga.github.io/levels/l1/Uno.zip)
 
-<!--## Session 4: Cruzin with Cruz 2.0
+## Session 4: Cruzin with Cruz 2.0
 
 <img src="https://wucomputing-tga.github.io/img/Cruzin_with_Cruz.png" alt="Cruz in the lab" width="300"><br>
-📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)
+<!--📓 Workbook: [Session_4.pdf](https://wucomputing-tga.github.io/levels/Session_4.pdf)-->
 
 ## Session 5: Introduction to Databases
 
@@ -36,7 +36,7 @@ layout: custom
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l1/Session_5.pdf)<br>
 ⬇️ Template: [studentsystem.sql](https://wucomputing-tga.github.io/levels/l1/studentsystem.sql)
 
-## Session 6: King's Birthday! 🥳 
+<!--## Session 6: King's Birthday! 🥳 
 
 ## Session 7: Boolean Algebra
 
