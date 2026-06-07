@@ -38,7 +38,7 @@ layout: custom
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l3/Session_5.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.zip](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.zip) [ParkwayCommutePrototype.pdf](https://wucomputing-tga.github.io/levels/l3/ParkwayCommutePrototype.pdf)
 
-<!--## Session 6: King's Birthday! 🥳 
+## Session 6: King's Birthday! 🥳 
 
 ## Session 7: Introduction to the Software Development Lifecycle:​ Implementation
 
@@ -47,7 +47,7 @@ layout: custom
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l3/Session_7.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.sql](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.sql)
 
-## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
+<!--## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uTHZUWPfE8U?si=6zV_zBSIcM5I5ISR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
