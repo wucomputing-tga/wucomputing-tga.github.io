@@ -37,7 +37,7 @@ layout: custom
 📓 Workbook: [Session 5.pdf](https://wucomputing-tga.github.io/levels/l5/Session_5.pdf) <br>
 ⬇️ Worksheet: [Configuring_Buddy.docx](https://wucomputing-tga.github.io/levels/l5/Configuring_Buddy.docx) 
 
-<!--## Session 6: King's Birthday! 🥳 
+## Session 6: King's Birthday! 🥳 
 
 ## Session 7: Maths and Python with Buddy
 
@@ -45,7 +45,7 @@ layout: custom
 
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l5/Session_7.pdf) <br>
 
-## Session 8: Buddy is Artificial & has Intelligence
+<!--## Session 8: Buddy is Artificial & has Intelligence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDnZlzE1PS8?si=cwhPeNTXG5f1LTYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
