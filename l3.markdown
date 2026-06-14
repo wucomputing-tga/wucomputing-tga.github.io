@@ -47,12 +47,12 @@ layout: custom
 📓 Workbook: [Session 7.pdf](https://wucomputing-tga.github.io/levels/l3/Session_7.pdf)<br>
 ⬇️ Worksheet: [ParkwayCommute.sql](https://wucomputing-tga.github.io/levels/l3/ParkwayCommute.sql)
 
-<!--## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
+## Session 8: Introduction to the Software Development Lifecycle:​ Evaluation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uTHZUWPfE8U?si=6zV_zBSIcM5I5ISR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📓 Workbook: [Session 8.pdf](https://wucomputing-tga.github.io/levels/l3/Session_8.pdf)<br>
 
-## Session 9: Battle of the Bytes 🏆
+<!--## Session 9: Battle of the Bytes 🏆
 
 ## Session 10: Careers in Computing 🤓-->
